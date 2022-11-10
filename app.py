@@ -1,10 +1,11 @@
 from tkinter import *
 from tkinter import ttk
-import math
+
+
 
 root = Tk()
 root.title('Calculadora Py')
-root.iconbitmap('calc_icon.ico')
+root.iconbitmap(r'C:\Users\suare\Desktop\Cursos Web\Python\Calculadora\icon.ico')
 root['background']= 'slate gray'
 root.resizable(0,0)
 
