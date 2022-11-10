@@ -4,7 +4,7 @@ import math
 
 root = Tk()
 root.title('Calculadora Py')
-root.iconbitmap('icons.ico')
+root.iconbitmap('calc_icon.ico')
 root['background']= 'slate gray'
 root.resizable(0,0)
 
